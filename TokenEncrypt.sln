@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenEncrypt", "TokenEncrypt\TokenEncrypt.csproj", "{B4E3F243-7DB9-47EC-BDA7-DD636CCAB6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E3F243-7DB9-47EC-BDA7-DD636CCAB6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E3F243-7DB9-47EC-BDA7-DD636CCAB6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E3F243-7DB9-47EC-BDA7-DD636CCAB6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E3F243-7DB9-47EC-BDA7-DD636CCAB6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A07552-14F1-4E28-8AF8-06F9C39C60CB}
+	EndGlobalSection
+EndGlobal
